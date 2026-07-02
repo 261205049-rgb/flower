@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<img src="./ipanema.jpg" alt="イパネマ海岸の写真"><br>
+<img src="./bg0.jpg" alt="　花畑の朝　"><br>
 
 </body>
 </html>
