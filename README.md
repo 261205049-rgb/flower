@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<img src="./bg0.jpg" alt="　花畑の朝　"><br>
+<img src="./bg0.png" alt="　花畑の朝　"><br>
 
 </body>
 </html>
