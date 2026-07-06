@@ -1,22 +1,10 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="utf-8">
-  <title>画像</title>
-  <style>
-  container { 
-    position: relative;
-    display: inline-block;
-    }
-    
-</head>
-<body>
+
 
 <!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="utf-8">
-  <title>はじめてのページ</title>
+  <title>花畑の朝</title>
 </head>
 <body>
  <div style="position: relative; width: 480px; height: 374px;">
